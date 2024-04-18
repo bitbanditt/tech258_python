@@ -1,0 +1,6 @@
+# Exclude all properties files from my repo
+*.properties
+# Exclude all idea files from my repo
+*.idea
+# Exclude all venv files from my repo
+*.venv
